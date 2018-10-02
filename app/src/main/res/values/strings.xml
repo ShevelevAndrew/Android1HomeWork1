@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android1HomeWork</string>
+    <string name="change_text_color_button">Смена цвета Random</string>
+    <string name="hello_world_textlabel">Hello World!</string>
+    <string name="change_text_direction_button">Смена направления</string>
+    <string name="change_random_text_color">Случайный цвет</string>
+    <string name="change_image">Сменить картинку</string>
+</resources>
